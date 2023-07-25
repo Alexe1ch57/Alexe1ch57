@@ -1,5 +1,5 @@
 Hi, I’m Data Analyst from Russia, Kirov.
-- I like to study data, find patterns and apply them in life 👀
+- I like to analyze data, find patterns and apply them in life 👀
 - In love with sql, python and its libraries 😍
 - 📫 How to reach me: https://t.me/Alexe1ch57
 
